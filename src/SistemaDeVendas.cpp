@@ -89,7 +89,6 @@ int main() {
     pedido.adicionarProduto(gpu);
     pedido.adicionarProduto(ram);
 
-    // Agora, exibimos o recibo usando a classe Vendas
     Vendas::exibirRecibo(pedido);
 
     return 0;
