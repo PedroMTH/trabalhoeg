@@ -1,5 +1,4 @@
 #include "pch.h"
-#include <gtest/gtest.h>
 #include "Cliente.h"
 #include "Produto.h"
 
